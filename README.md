@@ -122,7 +122,7 @@ MIT License. Use responsibly.
 
 ## 🙌 Credits
 
-Built by Uday.
+Built by Uday using:
 
 * LangChain
 * Ollama
