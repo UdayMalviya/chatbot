@@ -1,10 +1,3 @@
-Great — here’s a **production-quality `README.md`** for your AI-powered document chatbot project, complete with setup instructions, features, architecture, and usage.
-
----
-
-### ✅ `README.md`
-
-```markdown
 # 🧠 AI-Powered Document Chatbot
 
 A fully offline, local Retrieval-Augmented Generation (RAG) chatbot that can answer questions based on any uploaded document (PDF, TXT, MD) using [Ollama](https://ollama.com/) + [FAISS](https://github.com/facebookresearch/faiss) + [LangChain](https://www.langchain.com/) + [Streamlit](https://streamlit.io/).
@@ -129,7 +122,7 @@ MIT License. Use responsibly.
 
 ## 🙌 Credits
 
-Built by \[Your Name] using:
+Built by Uday.
 
 * LangChain
 * Ollama
